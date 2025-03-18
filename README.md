@@ -24,8 +24,8 @@ automate attendance while incorporating an innovative emotion-
 
 tracking feature.
 
-• Source Code: https://github.com/lovnishverma/facial-sentiment-analysed-ai-attendance-tracker
+• Source Code: https://github.com/Yukta116/faceemotionattendance
 
 • Live View [Password is (nielit)]:
 
-https://faceemotionielit.streamlit.app/
+
